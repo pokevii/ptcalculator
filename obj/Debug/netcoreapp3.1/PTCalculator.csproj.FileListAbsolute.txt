@@ -1,0 +1,13 @@
+C:\Users\grizz\Code\PTCalculator\obj\Debug\netcoreapp3.1\PTCalculator.csprojAssemblyReference.cache
+C:\Users\grizz\Code\PTCalculator\obj\Debug\netcoreapp3.1\PTCalculator.csproj.CoreCompileInputs.cache
+C:\Users\grizz\Code\PTCalculator\obj\Debug\netcoreapp3.1\PTCalculator.AssemblyInfoInputs.cache
+C:\Users\grizz\Code\PTCalculator\obj\Debug\netcoreapp3.1\PTCalculator.AssemblyInfo.cs
+C:\Users\grizz\Code\PTCalculator\bin\Debug\netcoreapp3.1\PTCalculator.exe
+C:\Users\grizz\Code\PTCalculator\bin\Debug\netcoreapp3.1\PTCalculator.deps.json
+C:\Users\grizz\Code\PTCalculator\bin\Debug\netcoreapp3.1\PTCalculator.runtimeconfig.json
+C:\Users\grizz\Code\PTCalculator\bin\Debug\netcoreapp3.1\PTCalculator.runtimeconfig.dev.json
+C:\Users\grizz\Code\PTCalculator\bin\Debug\netcoreapp3.1\PTCalculator.dll
+C:\Users\grizz\Code\PTCalculator\bin\Debug\netcoreapp3.1\PTCalculator.pdb
+C:\Users\grizz\Code\PTCalculator\obj\Debug\netcoreapp3.1\PTCalculator.dll
+C:\Users\grizz\Code\PTCalculator\obj\Debug\netcoreapp3.1\PTCalculator.pdb
+C:\Users\grizz\Code\PTCalculator\obj\Debug\netcoreapp3.1\PTCalculator.genruntimeconfig.cache
